@@ -41,8 +41,8 @@
 ### 🔍 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vix-zap&show_icons=true&theme=radical"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vix-zap&layout=compact&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lukscode-py&show_icons=true&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukscode-py&layout=compact&theme=radical"/>
 </div>
 
 ---
