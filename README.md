@@ -1,23 +1,23 @@
-<h1 align="center">Olá, eu sou o Lucas Kaua 👋</h1>
+<h1 align="center">Olá, eu sou o Lucas Kaua</h1>
 
 <p align="center">
   <b>Estudante de programação | Foco em back-end</b><br>
-  <i>Tenho 13 anos e quero ser freelancer até os 18 para entrar forte no mercado</i>
+  <i>Atualmente desenvolvendo minhas bases em tecnologia e criação de projetos</i>
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
-- 👦 Meu nome é **Lucas Kaua**, também conhecido como `Luks Code`.
-- 📚 Estudo **lógica de programação** e **Python** com dedicação.
-- 🌐 Estou aprimorando habilidades em **HTML**, **CSS** e **js**.
-- 💻 Em breve, começarei a estudar bibliotecas web como **React.js** ou **Vue.js**.
-- 🎯 Meu objetivo é me tornar um **desenvolvedor full-stack** e trabalhar como **freelancer** até completar 18 anos.
+- Meu nome é **Lucas Kaua**, também conhecido como `Luks Code`.
+- Estudo **lógica de programação** e **Python**.
+- Estou aprendendo **HTML**, **CSS** e **JavaScript** para criar interfaces melhores.
+- Em breve pretendo estudar frameworks web como **React.js** ou **Vue.js**.
+- Meu objetivo é me tornar um **desenvolvedor full-stack**.
 
 ---
 
-### 🛠️ Tecnologias que uso
+### Tecnologias que uso
 
 <div align="center">
   
@@ -31,13 +31,13 @@
 
 ---
 
-### 📦 Meus Projetos
+### Projetos
 
-- Atualmente privado para estudos, mais em breve começarei a criar! 
+- No momento, focado em estudos e testes. Em breve começarei a publicar projetos.
 
 ---
 
-### 🔍 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lukscode-py&show_icons=true&theme=radical"/>
@@ -46,18 +46,18 @@
 
 ---
 
-### 🌐 Contato & Social
+### Contato & Social
 
-- 📬 Discord: `lucasff1930`
-- 📺 YouTube: [Luks Code](https://youtube.com/@lukscode)
-- 📰 Instagram: [Luks Code](https://Instagram.com/vix.zap) 
-- 🌍 Cidade: Juazeiro - Bahia, Brasil 🇧🇷
+- Discord: `lucasff1930`
+- YouTube: [Luks Code](https://youtube.com/@lukscode)
+- Instagram: [Luks Code](https://Instagram.com/vix.zap) 
+- Cidade: Juazeiro - Bahia, Brasil 🇧🇷
 
 ---
 
-### 💡 Objetivo
+### Objetivo
 
-> "Estudar muito, praticar todos os dias e usar a internet pra criar ferramentas úteis. Quero ser referência ainda jovem." – *Lucas, 13 anos*
+> "Estudar, praticar e usar tecnologia para criar soluções úteis. Quero evoluir constantemente e construir projetos cada vez melhores."
 
 ---
 
